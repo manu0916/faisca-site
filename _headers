@@ -1,0 +1,21 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; img-src 'self'; font-src 'self'; style-src 'self'; script-src 'self'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'; object-src 'none'
+  Cache-Control: public, max-age=0, must-revalidate
+
+/downloads/faisca.apk
+  Content-Type: application/vnd.android.package-archive
+  Content-Disposition: attachment; filename="faisca.apk"
+  ! Cache-Control
+  Cache-Control: no-store
+
+/downloads/SHA256.txt
+  ! Cache-Control
+  Cache-Control: no-store
+
+/downloads/release.json
+  ! Cache-Control
+  Cache-Control: no-store
