@@ -18,3 +18,4 @@
 .mascot{mask-image:linear-gradient(to right,transparent,#000 11%,#000 89%,transparent),linear-gradient(to bottom,transparent,#000 14%,#000 85%,transparent);mask-composite:intersect}
 @media(max-width:760px){.hero .eyebrow{font-size:9px;letter-spacing:.7px}.learning-card>p,.audience-card>p,.install-grid p,.faq-answer p,.download-copy>p:not(.eyebrow){font-size:14px}.faq-list summary{font-size:14px}.check-list>li{font-size:13px}.split-heading>p{font-size:14px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+.download-info .button+.button{margin-top:10px;background:transparent;color:var(--cream);border:1px solid #ffffff55}.download-info .button+.button:hover{background:#ffffff16}

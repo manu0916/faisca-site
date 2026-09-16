@@ -1,0 +1,18 @@
+{
+  "version": "1.5.0",
+  "publishedAt": "2026-09-16",
+  "downloads": {
+    "windows": {
+      "file": "Faisca-1.5.0-Windows.exe",
+      "url": "https://github.com/manu0916/faisca-site/releases/download/v1.5.0/Faisca-1.5.0-Windows.exe",
+      "size": 112880101,
+      "sha256": "DFBE57A0F695C2121AD2392D249D52A836A3E3EF1A7DF8DAFC8A5E6A6D486C82"
+    },
+    "android": {
+      "file": "faisca.apk",
+      "downloadName": "Faisca-1.5.0-Android.apk",
+      "size": 1990825,
+      "sha256": "AD23E31C1A0FC5AA2C532ECF121E98137085CA0CC269E3BADAA5387F162168AF"
+    }
+  }
+}

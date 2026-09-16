@@ -1,0 +1,30 @@
+{
+  "id": "./",
+  "name": "Faísca - Aprenda programação",
+  "short_name": "Faísca",
+  "description": "Curso de programação em português com lições, prática, revisão e progresso sincronizado.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#F7F3E8",
+  "theme_color": "#F7F3E8",
+  "orientation": "any",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "art/marca.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Continuar estudando",
+      "short_name": "Estudar",
+      "url": "./"
+    }
+  ]
+}
