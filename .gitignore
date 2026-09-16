@@ -1,0 +1,2 @@
+# Windows installers are published as GitHub Release assets (GitHub limits repository files to 100 MB).
+downloads/*.exe
