@@ -6,8 +6,8 @@
   "debuggable": true,
   "edition": "versão de teste",
   "file": "downloads/faisca.apk",
-  "size_bytes": 1990825,
-  "sha256": "ad23e31c1a0fc5aa2c532ecf121e98137085ca0cc269e3badaa5387f162168af",
+  "size_bytes": 1986852,
+  "sha256": "5ef80f879541840f4696f0a46fd7044b53cad00dfc95af9a75d68e9788bfd53e",
   "signature": {
     "verifier": "Android SDK apksigner",
     "schemes": [
@@ -18,5 +18,5 @@
       "c79d8a1598f33a6acd12d1b52d107a6bc608b1082a8edf7a660b3c1d440fd878"
     ]
   },
-  "published_at": "2026-09-16T14:05:13+00:00"
+  "published_at": "2026-09-15T00:00:00+00:00"
 }
